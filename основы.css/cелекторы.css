@@ -1,0 +1,61 @@
+/* /*селекторы по по тегу по классу начинается  с точки по идефикаторы то есть по айд/*  нужно сначала написать решетка  значение айди */
+/* селектор по тегу
+/* p{
+    color: blue;
+}
+
+a{
+    color: #44db08;
+}
+
+ul{
+    color: red;
+} */
+
+/* селектор по классу
+/* .my-super-text{
+    color: gold;
+    font-size: 22px;
+}
+.not-super-text{
+    color: gray;
+} */
+
+/* #my-first-uniqye-text{
+    color: blanchedalmond;
+}
+#my-second-unique-text{
+    color: blueviolet;
+}
+
+#my-third-uniqye-text{
+    color: aqua;
+} */ 
+
+/* селектор по атрибуту
+[placeholder]{
+border: 3px solid darkblue;
+}
+
+[ type= "number"]{
+box-shadow: 3px 3px 3px 3px #ac11a4;
+}
+[type="tel"]{
+box-shadow:  3px 3px 3px #0626b4
+}
+
+[type="email"]{
+box-shadow:  3px 3px 3px #961212
+}*/
+
+
+    /* селектор по атрибуду с символом с крышечкой  он ищет только начало 
+    такой селктор позволяет выберать все теги по отрибуту которое начинается с заданного значения
+    [href^="https://"]{
+        color: rgb(53, 1, 238);
+    }
+
+[href^="http://"]{
+    color: rgb(13, 231, 13);
+} */
+
