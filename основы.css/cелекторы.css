@@ -63,4 +63,20 @@ box-shadow:  3px 3px 3px #961212
 [href^="http://"]{
     color: rgb(13, 231, 13);
 } */
+/* 
 
+section>p{
+color: green; 
+} */
+
+/* h1,
+h2,
+h3{
+    color: green;
+} */
+/* .button{
+    color: chartreuse;
+}
+.button.is-active{
+    color: chocolate;
+} */
