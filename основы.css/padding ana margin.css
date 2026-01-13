@@ -1,0 +1,57 @@
+div{
+    width: 200px;
+    height: 200px;
+}
+
+.box{
+    color: blue;
+    border: 40px solid green;
+    padding: 60px;
+}
+
+
+
+.box2{
+color: black;
+border: 10px solid rgb(128, 0, 70);
+padding: 10px 20px;
+}
+
+.box3{
+color: #a01111;
+border: 10px solid rgb(4, 90, 37);
+padding: 48px 24px 24px ;
+margin: auto;
+}
+
+.box4{
+color: #dfff27;
+border: 10px solid rgb(4, 90, 37);
+padding: 48px 24px  28px ;
+margin: auto;
+}
+
+/* .box5{
+color: #ee058d;
+border: 10px solid rgb(4, 90, 37);
+padding: 48px 24px 24px ;
+}
+
+.box6{
+
+color: #aae935;
+border: 10px solid rgb(4, 90, 37);
+padding: 48px 24px 24px ;
+}
+
+.box7{
+color: #14ff3b;
+border: 10px solid rgb(4, 90, 37);
+padding: 48px 24px 24px ;
+}
+
+.box8{
+color: #44097a;
+border: 10px solid rgb(4, 90, 37);
+padding: 48px 24px 24px ;
+} */
