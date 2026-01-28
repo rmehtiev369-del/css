@@ -1,0 +1,11 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: #ca4949;
+    border: 10px solid slateblue;
+    box-shadow: 20px 5px 5px  rgb(180, 17, 17) inset;
+/* border-width: 8px;
+border-style:dashed;
+background-color: darkgreen; */
+
+}
