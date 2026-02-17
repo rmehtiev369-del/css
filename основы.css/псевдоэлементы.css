@@ -1,0 +1,59 @@
+input::placeholder{
+    color: red;
+}
+textarea::placeholder{
+    color: green;
+    font-weight: 900;
+}
+
+.custom::file-selector-button{
+height: 32px;
+padding-inline: 12px;
+color: blue;
+background-color: chartreuse;
+border: 3px dashed darkblue;
+border-radius: 10px;
+
+}
+
+.special::first-letter{
+margin-right: 15px;
+padding: 12px 24px;
+font-size: 3em;
+color: indianred;
+background-color: blueviolet;
+border: 4px solid green;
+border-radius: 10px;
+box-shadow: 0 0 10px burlywood;
+}
+
+
+.custom-s::selection{
+color: white;
+background-color: coral;
+text-shadow: 2px 2px 2px black;
+text-decoration: underline;
+}
+
+.custom-m::marker{
+color: green;
+}
+.custom-me::marker{
+    content: ""; 
+}
+
+/* .custom-s::selection-состояния выделения для кастома {
+    
+} */
+
+/* .special::first-letter-этот псевдо эелемен первая буква тестовым знач{
+
+} */
+
+/* .special::first-line-первая строка текста{
+    
+} */
+/* .emoji-pres::before - контент элемент в начало автер в конце{
+
+}
+ */
