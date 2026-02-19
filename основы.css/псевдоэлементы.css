@@ -2,7 +2,7 @@ input::placeholder{
     color: red;
 }
 textarea::placeholder{
-    color: green;
+    color: rgb(0, 252, 0);
     font-weight: 900;
 }
 
@@ -38,8 +38,11 @@ text-decoration: underline;
 .custom-m::marker{
 color: green;
 }
-.custom-me::marker{
-    content: ""; 
+.custom-me::before{
+    content: ">"; 
+}
+.custom-me::after{
+    content: "<"; 
 }
 
 /* .custom-s::selection-состояния выделения для кастома {

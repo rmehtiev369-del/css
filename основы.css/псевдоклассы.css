@@ -1,0 +1,48 @@
+/* p:last-of-type{
+    color: rgb(255, 14, 14);
+}   стилизация последнего параграфа или елемента  */
+
+/* p:first-child{
+    color: rgb(204, 53, 8);
+}  стилизация первого параграфа или элемента */
+
+/* p:nth-child(odd){
+    color: blueviolet;
+} стилизация нечетных параграфов или элементов нечетных */
+/* 
+p:nth-child(even){
+    color: blueviolet;
+}  стилизация  четных параграфов или элементов четных */
+
+/* p:nth-child(4){
+    color: blueviolet;
+}  стилизация 4 параграфа или  одного  именно этого элемента нужно написать число */
+
+/* p:nth-last-child(2){
+    color: rgb(43, 76, 226);
+}  */
+
+/* p:nth-child(3n+5){
+    color: blueviolet;
+}  */
+
+/* li:only-child{
+    background-color: brown;
+} стилизация единственного дочерного элемента  */
+
+.hover:hover{
+background-color: green
+}
+
+.focus:focus{
+box-shadow: 0 0 10px 10px firebrick;
+}
+
+.focus-effect:focus-visible{
+box-shadow: 0 0 10px 10px gold;
+}
+
+.active-effect:active{
+color: blue;
+background-color: red;
+}
